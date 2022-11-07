@@ -1,0 +1,112 @@
+*{
+    color: rgb(209, 203, 203);
+    
+}
+
+.navegação a{
+    color: rgb(216, 216, 216);
+}
+
+.nav-item{
+    padding-left: 30px;
+}
+.página_fundo{
+    background-color: #161616;
+    text-align: center;        
+}
+
+.cor-botão {   
+    background-color: #000000;        
+    color: white;
+}
+
+.modal {
+    color: black !important;
+}
+
+.imagem {
+    height: 650px;      
+}
+
+.sobre {
+    display: inline-flex;
+    box-shadow:
+    2.8px 2.8px 2.2px rgba(0, 0, 0, 0.20),
+    6.7px 6.7px 5.3px rgba(0, 0, 0, 0.05),
+    12.5px 12.5px 10px rgba(0, 0, 0, 0.042),
+    22.3px 22.3px 17.9px rgba(0, 0, 0, 0.035),
+    41.8px 41.8px 33.4px rgba(0, 0, 0, 0.028),
+    100px 100px 80px rgba(0, 0, 0, 0.02);         
+}
+
+.sobre_texto {
+    width: 50em;
+    margin-top: 100px;    
+}
+
+.redes_sociais a{
+    text-decoration: none;
+    color: white;
+}
+
+.conteúdo{
+    margin-top: 30px;
+    max-width: 900px;   
+}
+
+.título{
+    margin-top: 100px;
+}
+
+.linguagens_fundo{
+    background-color: #17223b;
+    box-shadow:
+    2.8px 2.8px 2.2px rgba(0, 0, 0, 0.20),
+    6.7px 6.7px 5.3px rgba(0, 0, 0, 0.05),
+    12.5px 12.5px 10px rgba(0, 0, 0, 0.042),
+    22.3px 22.3px 17.9px rgba(0, 0, 0, 0.035),
+    41.8px 41.8px 33.4px rgba(0, 0, 0, 0.028),
+    100px 100px 80px rgba(0, 0, 0, 0.02);
+}
+
+.texto_linguagens img{
+    display: flex;   
+    max-width: 7em;
+    border-radius: 45%;
+    margin-top: 10px;
+}
+
+.texto_linguagens p{
+    margin-left: 5%;
+    align-content: start;
+}
+
+.divisão_linguagens{
+    display: inline-flex;
+    width: 100%;
+}
+
+.portifólio{
+    display: flex;
+    flex-direction: column;   
+    flex-wrap: nowrap;
+}
+
+.portifólio_fundo{
+    background-color: #17223b;
+    box-shadow:
+    2.8px 2.8px 2.2px rgba(0, 0, 0, 0.20),
+    6.7px 6.7px 5.3px rgba(0, 0, 0, 0.05),
+    12.5px 12.5px 10px rgba(0, 0, 0, 0.042),
+    22.3px 22.3px 17.9px rgba(0, 0, 0, 0.035),
+    41.8px 41.8px 33.4px rgba(0, 0, 0, 0.028),
+    100px 100px 80px rgba(0, 0, 0, 0.02);
+}
+
+h5{
+    margin-left: 35px;
+    text-shadow: 8px 6px 7px rgba(0,0,0,0.48);
+}
+
+
+
