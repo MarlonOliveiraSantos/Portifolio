@@ -7,10 +7,15 @@
     color: rgb(216, 216, 216);
 }
 
-.nav-item{
+.navegação a:hover {
+    background-color: #292929;
+    color: white;   
+}
+
+.nav-item {
     padding-left: 30px;
 }
-.página_fundo{
+.página_fundo {
     background-color: #161616;
     text-align: center;        
 }
